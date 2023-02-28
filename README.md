@@ -29,3 +29,11 @@ Here are some ideas to get you started:
 ## TECHNOLOGIES :
 
 ![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,html,css,js,vscode,github)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=psathyapalreddy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=psathyapalreddy&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=psathyapalreddy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Github Trophies:
+![](https://github-profile-trophy.vercel.app/?username=psathyapalreddy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
