@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=psathyapalreddy&color=blueviolet&plastic)
 - Hey there I am Sathyapal Reddy , Glad you found your way to my profile..!
 - 🔭 I’m currently exploring Full stack development (MERN).
-- Currently i am pursuing my Final year of engineering in electronics and communications branch.  
 - I am highly interested in collaborating with developers and making amazing projects , do connect with me if you find my profile matching with what you expect.<br/>
 <h1>Connect with me!</h1>
 <a href=https://www.linkedin.com/in/sathyapal-reddy-14789b1a5/><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
