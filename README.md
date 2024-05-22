@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## TECHNOLOGIES :
 
-![My Skills](https://skillicons.dev/icons?i=c,java,python,SQL,html,css,js,vscode,github,php,Kafka,R,Hadoop,Scala)
+![My Skills](https://skillicons.dev/icons?i=c,java,python,sql,html,css,js,vscode,github,php,kafka,R,hadoop,scala)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=psathyapalreddy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
